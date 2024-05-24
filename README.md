@@ -15,5 +15,5 @@ The repository is organized into directories, each corresponding to a specific h
 
 **Description:** These assignments go through different steps to create a full stack webpage, making the fronted with HTML/CSS and coding the backend using PHP. The website has several features like a login page, ability to delete and add books, and popups using AJAX.
 
-HW3: Intermediate Web Development
-Description: Building a small web project integrating HTML, CSS, and JavaScript.
+**HW7:** Book Webpage using Laravel
+**Description:** We built the same book webpage as before this time using the Laravel web framework.
